@@ -6,6 +6,9 @@ A simple Geode mod that adds a separate volume slider for menu music in Geometry
   <img width="512" height="512" alt="Menu Music Volume" src="https://github.com/user-attachments/assets/e8be746d-ee83-40f3-961a-2455d5cfcdd7" />
 </p>
 
+<p align="center">
+<img width="215" height="540" alt="menu volume" src="https://github.com/user-attachments/assets/3653d5fe-224e-4174-8895-30c2863f110c" />
+</p>
 ## Features
 
 * Separate menu music volume
