@@ -1,0 +1,17 @@
+{
+	"geode": "5.8.2",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "yokene.menu-music-volume",
+	"name": "Menu Music Volume",
+	"version": "v1.0.0",
+	"developer": "Yokene",
+	"description": "Сhange the volume of music from the menu, separately from the entire game.",
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	}
+}
